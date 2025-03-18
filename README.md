@@ -5,8 +5,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-- <b>Responsive Web Design </b>
-  -  Building a Survey Form
+- <b>Responsive Web Design</b>
+- <b>Building a Survey Form</b>
 
 
 <h2>🤳Connect with me:</h2>
