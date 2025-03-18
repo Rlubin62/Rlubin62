@@ -6,9 +6,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rlubin62/osticket-prereqs-install)
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
-    
+      
 - <b>Responsive Web Design</b>
 
   -[Responsive Web Design: Survey Form](https://github.com/Rlubin62/Survey-Form-Project)
