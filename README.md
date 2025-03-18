@@ -9,7 +9,7 @@
       
 - <b>Responsive Web Design</b>
 
-  -[Responsive Web Design: Survey Form](https://github.com/Rlubin62/Survey-Form-Project)
+   - [Responsive Web Design: Survey Form](https://github.com/Rlubin62/Survey-Form-Project)
 
 
 <h2>🤳Connect with me:</h2>
