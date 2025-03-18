@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
 - <b>Responsive Web Design </b>
   -  Building a Survey Form
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](
+
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/rhodlubin/
