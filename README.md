@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
 - <b>Responsive Web Design</b>
 
-  -[Responsive Web Design: Building a Survey Form]([https://github.com/joshmadakorcc/osticket-prereqs](https://github.com/Rlubin62/Survey-Form-Project))
+  -[Responsive Web Design: Building a Survey Form](https://github.com/Rlubin62/Survey-Form-Project)
 
 
 <h2>🤳Connect with me:</h2>
