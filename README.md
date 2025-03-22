@@ -15,6 +15,8 @@
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/rhodlubin/
 
+[CourseCareers Profile]: https://profile.coursecareers.com/it/rhod.lubin
+
 
 
 
